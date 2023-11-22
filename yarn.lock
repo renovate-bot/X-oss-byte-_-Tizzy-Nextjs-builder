@@ -1936,9 +1936,7 @@
   integrity sha512-3owAC4iJub5WPqRhxd8INarF2bWeQq1yQHBgYhN0XLBJMpd5ED10RrJ3aKiAwlTyL5wK7RkBD4SZUQz2AAAMdA==
 
 "@types/chec__commerce.js@*", "@types/chec__commerce.js@^2.8.4":
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/@types/chec__commerce.js/-/chec__commerce.js-2.8.5.tgz#1f0e1c4d6f6406db74f675d6596fd40a90a189af"
-  integrity sha512-SkQXxm7R/OBiqHEPV33xdqTFdCw5u2H39qZ2YQGSsuDkAyaUpALnaUlrZ06T8UMHSwHrQTXCrDnG8GgzbKwIXg==
+  version "2.8.11"
   dependencies:
     "@types/chec__commerce.js" "*"
 
